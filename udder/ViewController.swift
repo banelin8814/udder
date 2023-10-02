@@ -17,5 +17,8 @@ class ViewController: UIViewController {
     struct charc {
         
     }
+    struct charc2 {
+        
+    }
 }
 
